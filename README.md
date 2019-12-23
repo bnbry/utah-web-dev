@@ -10,3 +10,13 @@ List of Utah Companies Providing Web Development Services
   - [SolutionStream](https://www.solutionstream.com/)
   - [STG](https://stgconsulting.com/)
   - [struct](http://lovestruct.com/)
+
+List of Utah Independent Consultants Providing Web Development Services
+
+  - This could be you!
+  
+  
+  
+## Contributing
+
+Open a PR and add to the lists, keep them alphabetical by company name and individual last name. Always be nice.
